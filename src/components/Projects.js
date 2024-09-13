@@ -51,7 +51,7 @@ export default function Projects() {
               animate="visible"
               whileHover={{ scale: 1.02 }}
             >
-              <div className="flex relative">
+              <div className="flex relative h-64 rounded-lg overflow-hidden">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"

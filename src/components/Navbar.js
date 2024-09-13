@@ -34,14 +34,14 @@ export default function Navbar() {
             About Me
           </Link>
         </nav>
-        <Link
+        {/* <Link
           to="contact"
           smooth={true}
           duration={500}
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 hover:scale-105 transform transition-all duration-300 ease-in-out rounded text-base mt-4 md:mt-0">
           Hire Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
-        </Link>
+        </Link> */}
       </div>
     </header>
   );

@@ -19,8 +19,7 @@ export default function About() {
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
             I am proficient in Frontend development, specializing in
             React and Tailwind. I excel in building responsive, user-friendly
-            interfaces with React and creating robust APIs with Node.js and
-            Express.js. My skills include database management with Firebase,
+            interfaces with React . My skills include database management with Firebase,
             version control using Git, and deployment on cloud platforms. I am
             dedicated to delivering efficient solutions through clean code and
             effective problem-solving.
